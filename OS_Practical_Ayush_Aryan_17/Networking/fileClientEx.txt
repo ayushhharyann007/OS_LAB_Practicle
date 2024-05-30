@@ -1,0 +1,3 @@
+This is a dummy file created to be read by file server when client asks for this file.
+
+Adding new lines to check if read is working correctly
